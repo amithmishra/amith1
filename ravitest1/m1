@@ -1,2 +1,6 @@
 first line
+<<<<<<< .mine
 third line
+=======
+second line
+>>>>>>> .theirs
